@@ -1,3 +1,10 @@
+---
+title:  "CSS Properties to use"
+date:   2020-06-20 12:00:00 -0500
+categories: [web development]
+tags: [code]   # TAG names shoud always be lowercase
+---
+
 1. **Change the Text Selection colour**
 To change the Text Selection colour, ::selection is a pseudo-element that overrides at the browser-level to replace the text highlight colour with a colour you choose. The colour can be seen once you select the content with the cursor.
 
